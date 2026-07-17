@@ -14,7 +14,7 @@
 🌟 Passionate about transforming data into actionable insights and building intelligent dashboards for banking and business analytics.
 </em>
 
-<br><br>
+<br>
 
 <em>
 🎓 Currently pursuing my Master's at <b>St. Mary University</b> and working as a <b>Data Analyst at Tsedey Bank S.C.</b>
