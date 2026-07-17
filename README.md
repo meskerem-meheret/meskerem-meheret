@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Meskerem Meheret Banner" style="height:350 px;">
+  <img src="banner.png" alt="Meskerem Meheret Banner" style="height:150 px;">
 </p>
 
 <div align="center">
