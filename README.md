@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="girl-red-dress.png" width="80px">
-
-<h2>Hi, I'm Meskerem</h2>
+<h2>Hi, I'm Meskerem! 👋</h2>
 
 <p>
 <b>Data Analyst | SQL | Power BI | ETL | Data Warehouse | Business Intelligence Developer</b>
