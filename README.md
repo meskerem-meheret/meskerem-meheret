@@ -22,15 +22,19 @@
 
 </div>
 
-<h3>🧠 Technical Skills</h3>
 <div align="center">
+
+<h2>🧠 Technical Skills</h2>
 
 <h4>🔹 Data Engineering</h4>
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL%2FELT-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/T_SQL-00599C?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Warehouse-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-FFB300?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Integration-6A5ACD?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
 <h4>🔹 Business Intelligence & Visualization</h4>
@@ -38,76 +42,12 @@
 <p>
   <img src="https://img.shields.io/badge/Business_Intelligence-FF5733?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dashboard_Design-1E90FF?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-32CD32?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KPI_Analysis-8A2BE2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Enterprise_Reporting-FF69B4?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Report_Automation-20B2AA?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
-
-</div>
-
-<h2>📊 Data Analytics & Business Intelligence</h2>
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-📊<br>
-<b>Dashboard Design</b>
-</td>
-
-<td align="center" width="180">
-📈<br>
-<b>Data Visualization</b>
-</td>
-
-<td align="center" width="180">
-💡<br>
-<b>Business Intelligence</b>
-</td>
-
-<td align="center" width="180">
-🎯<br>
-<b>KPI Analysis</b>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="180">
-📑<br>
-<b>Enterprise Reporting</b>
-</td>
-
-<td align="center" width="180">
-🔍<br>
-<b>Data Analysis</b>
-</td>
-
-<td align="center" width="180">
-⚙️<br>
-<b>Report Automation</b>
-</td>
-
-<td align="center" width="180">
-📊<br>
-<b>Power BI Development</b>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div>
-
-<h3>🏢 Database & Data Engineering</h3>
-
-<ul>
-<li>SQL Server</li>
-<li>T-SQL</li>
-<li>Data Warehouse</li>
-<li>ETL / ELT Development</li>
-<li>Data Modeling</li>
-<li>Data Integration</li>
-</ul>
 
 </div>
 
