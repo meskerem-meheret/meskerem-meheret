@@ -22,9 +22,8 @@
 
 </div>
 
-<div align="center">
-
 <h3>🧠 Technical Skills</h3>
+<div align="center">
 
 <h4>🔹 Data Engineering</h4>
 
