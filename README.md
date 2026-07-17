@@ -25,7 +25,6 @@
 ### 🧠 Technical Skills  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/ETL%2FELT-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Warehouse-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
