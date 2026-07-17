@@ -1,6 +1,6 @@
 # Hi, I'm Meskerem 👋  
 
-## 💼 Data Analyst | SQL | Power BI | ETL | Data Warehouse | Machine Learning  
+## 💼 Data Analyst | SQL | Power BI | ETL | Data Warehouse | Business Intelligence Developer
 
 I am a Data Analyst specializing in transforming business data into actionable insights through analytics, visualization, reporting, and automation.
 
@@ -10,11 +10,11 @@ Currently pursuing my Master's degree in Computer Science at **St. Mary Universi
 
 ### 🧠 Technical Skills  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0078D7?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 **Data Analytics & BI**
 - Power BI Dashboard Development
