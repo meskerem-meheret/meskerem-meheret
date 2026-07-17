@@ -8,6 +8,9 @@
 
 </div>
 
+🌟 Passionate about transforming data into actionable insights and building intelligent dashboards for banking and business analytics.  
+🎓 Currently pursuing my Master’s at **St. Mary University** and working at **Tsedey Bank S.C.**  
+
 ### 🧠 Technical Skills  
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
