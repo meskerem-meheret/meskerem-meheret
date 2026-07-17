@@ -10,15 +10,17 @@
 
 <div align="center">
 
-<p>
-🌟 <b>Passionate about transforming data into actionable insights</b> and building intelligent dashboards for banking and business analytics.
-</p>
+<em>
+🌟 Passionate about transforming data into actionable insights and building intelligent dashboards for banking and business analytics.
+</em>
 
-<p>
+<br><br>
+
+<em>
 🎓 Currently pursuing my Master's at <b>St. Mary University</b> and working as a <b>Data Analyst at Tsedey Bank S.C.</b>
-</p>
+</em>
 
-</div> 
+</div>
 
 ### 🧠 Technical Skills  
 
