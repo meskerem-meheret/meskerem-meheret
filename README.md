@@ -11,7 +11,7 @@
 <div align="center">
 
 <em>
-🌟 Passionate about transforming data into actionable insights and building intelligent dashboards for banking and business analytics.
+🌟 Passionate about transforming data into actionable insights and building reports & intelligent dashboards for banking and business analytics.
 </em>
 
 <br>
