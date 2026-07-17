@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hi, I'm Meskerem 👩‍🦰  
+<img src="girl-red-dress.png" width="80px">
 
-### 💼 Data Analyst | SQL | Power BI | ETL | Data Warehouse | Business Intelligence Developer  
+<h2>Hi, I'm Meskerem</h2>
 
----
+<p>
+<b>Data Analyst | SQL | Power BI | ETL | Data Warehouse | Business Intelligence Developer</b>
+</p>
 
-🌟 Passionate about transforming data into actionable insights and building intelligent dashboards for banking and business analytics.  
-🎓 Currently pursuing my Master’s at **St. Mary University** and working at 
+</div>
 
 ### 🧠 Technical Skills  
 
