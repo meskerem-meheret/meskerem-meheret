@@ -67,11 +67,14 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning  
 
-- Big Data Analytics
-- Machine Learning Applications
-- Advanced Data Engineering Concepts
+![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-0F172A?style=flat&logo=Apache-Hadoop&logoColor=white)  
+![Machine Learning Applications](https://img.shields.io/badge/Machine%20Learning%20Applications-1E3A8A?style=flat&logo=scikit-learn&logoColor=white)  
+![Advanced Data Engineering Concepts](https://img.shields.io/badge/Advanced%20Data%20Engineering%20Concepts-0F172A?style=flat&logo=Databricks&logoColor=white)  
+![Leadership](https://img.shields.io/badge/Leadership-F2C811?style=flat&logo=Handshake&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-005571?style=flat&logo=Tableau&logoColor=white)
+
 
 ---
 
