@@ -1,4 +1,4 @@
-✨ # Hi, I'm Meskerem 👋
+# Hi, I'm Meskerem 👋
 
 ## Data Analyst | SQL | Power BI | ETL | Data Warehouse
 
