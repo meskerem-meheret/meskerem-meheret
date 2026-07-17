@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Meskerem Meheret Banner"/>
+</p>
+
 <div align="center">
 
 <h2>Hi, I'm Meskerem! 👋</h2>
