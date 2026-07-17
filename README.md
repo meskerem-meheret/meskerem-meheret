@@ -31,15 +31,57 @@
   <img src="https://img.shields.io/badge/Business_Intelligence-FF5733?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<h3>📊 Data Analytics & Business Intelligence</h3>
+<div align="center">
 
-<ul>
-<li>Power BI Dashboard Development</li>
-<li>Business Intelligence Reporting</li>
-<li>Data Visualization</li>
-<li>KPI Analysis</li>
-<li>Dashboard Design</li>
-</ul>
+<h2>📊 Data Analytics & Business Intelligence</h2>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+📊<br>
+<b>Dashboard Design</b>
+</td>
+
+<td align="center" width="180">
+📈<br>
+<b>Data Visualization</b>
+</td>
+
+<td align="center" width="180">
+💡<br>
+<b>Business Intelligence</b>
+</td>
+
+<td align="center" width="180">
+🎯<br>
+<b>KPI Analysis</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="180">
+📑<br>
+<b>Enterprise Reporting</b>
+</td>
+
+<td align="center" width="180">
+🔍<br>
+<b>Data Analysis</b>
+</td>
+
+<td align="center" width="180">
+⚙️<br>
+<b>Report Automation</b>
+</td>
+
+<td align="center" width="180">
+📊<br>
+<b>Power BI Development</b>
+</td>
+</tr>
+</table>
 
 </div>
 
