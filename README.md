@@ -3,7 +3,7 @@
 <h2>Hi, I'm Meskerem! 👋</h2>
 
 <p>
-<b>Data Analyst | SQL | Power BI | ETL | Data Warehouse | Business Intelligence Developer</b>
+<b>Data Analyst | SQL | Power BI | ETL/ELT | Data Warehouse | Business Intelligence Developer</b>
 </p>
 
 </div>
