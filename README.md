@@ -31,26 +31,38 @@
   <img src="https://img.shields.io/badge/Business_Intelligence-FF5733?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-**Data Analytics & BI**
-- Power BI Dashboard Development
-- Business Intelligence Reporting
-- Data Visualization
-- KPI Analysis
+<h3>📊 Data Analytics & Business Intelligence</h3>
 
-**Database & Data Engineering**
-- SQL Server
-- T-SQL
-- Data Warehouse
-- ETL Development
-- Data Modeling
+<ul>
+<li>Power BI Dashboard Development</li>
+<li>Business Intelligence Reporting</li>
+<li>Data Visualization</li>
+<li>KPI Analysis</li>
+<li>Dashboard Design</li>
+</ul>
 
-**Data Science**
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Machine Learning
+</div>
 
+---
+
+<div>
+
+<h3>🏢 Database & Data Engineering</h3>
+
+<ul>
+<li>SQL Server</li>
+<li>T-SQL</li>
+<li>Data Warehouse</li>
+<li>ETL / ELT Development</li>
+<li>Data Modeling</li>
+<li>Data Integration</li>
+</ul>
+
+</div>
+
+---
+
+<div>
 ---
 
 ### 📊 Featured Projects  
