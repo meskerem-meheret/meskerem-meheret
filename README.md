@@ -1,61 +1,66 @@
-✨ Hi, I'm Meskerem Meheret 👋
-Data Analyst | SQL | Power BI | ETL | Machine Learning
-I am a Data Analyst passionate about transforming raw data into strategic intelligence. My expertise lies in data analytics, visualization, and reporting, helping businesses unlock insights that drive smarter decisions.
+✨ # Hi, I'm Meskerem 👋
+
+## Data Analyst | SQL | Power BI | ETL | Data Warehouse
+
+I am a Data Analyst specializing in transforming business data into meaningful insights through data analysis, visualization, and reporting.
 
 Currently working with:
 
-SQL Server & T-SQL
+- SQL Server
+- Power BI
+- ETL Processes
+- Data Warehouse
+- Python for Data Analytics
+- Machine Learning
 
-Power BI (Interactive Dashboards & BI Solutions)
+---
 
-ETL & Data Warehousing
+## 🛠️ Technical Skills
 
-Python for Data Analytics
+### Data Analytics & BI
+- Power BI
+- Seal Report Designer
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
 
-Machine Learning Models
+### Database & ETL
+- SQL Server
+- T-SQL
+- Data Warehouse
+- ETL Development
+- Data Modeling
 
-🛠️ Technical Expertise
-Data Analytics & BI
-Power BI (Advanced Dashboards & Reports)
+### Programming & Data Science
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
 
-Seal Report Designer
+---
 
-Business Intelligence Solutions
+## 📊 Featured Projects
 
-Data Visualization & Storytelling
+### 🚗 Car Sales Dashboard
+Interactive Power BI dashboard analyzing vehicle sales performance, customer preferences, and business trends.
 
-Database & ETL
-SQL Server & T-SQL
+### 👥 HR Analytics Dashboard
+Power BI dashboard analyzing employee data and HR-related insights.
 
-Data Warehousing Architecture
+### 📈 Data Analytics Portfolio
+Collection of data analysis projects using SQL, Python, and Power BI.
 
-ETL Development & Automation
+---
 
-Data Modeling & Optimization
+## 🎯 Currently Learning
 
-Programming & Data Science
-Python (Pandas, NumPy, Scikit-learn)
+- Big Data Analytics
+- Machine Learning
+- Advanced Data Engineering Concepts
 
-Machine Learning Algorithms
+---
 
-Predictive Analytics & Modeling
+## 📫 Connect With Me
 
-📊 Featured Projects
-🚗 Car Sales Dashboard
-An interactive Power BI dashboard analyzing vehicle sales performance, customer preferences, and market trends.
-
-👥 HR Analytics Dashboard
-A comprehensive HR dashboard providing insights into workforce dynamics, employee performance, and retention strategies.
-
-📈 Data Analytics Portfolio
-A curated collection of SQL, Python, and Power BI projects showcasing end-to-end analytics solutions.
-
-🎯 Currently Expanding Knowledge In
-Big Data Analytics
-
-Machine Learning
-
-Advanced Data Engineering
-
-📫 Connect With Me
 LinkedIn: Add your LinkedIn profile here
