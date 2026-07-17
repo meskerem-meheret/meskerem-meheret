@@ -67,14 +67,13 @@
 
 ---
 
-### 🌱 Currently Learning  
+### 🌱 Currently Learning
 
-![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-0F172A?style=flat&logo=Apache-Hadoop&logoColor=white)  
-![Machine Learning Applications](https://img.shields.io/badge/Machine%20Learning%20Applications-1E3A8A?style=flat&logo=scikit-learn&logoColor=white)  
-![Advanced Data Engineering Concepts](https://img.shields.io/badge/Advanced%20Data%20Engineering%20Concepts-0F172A?style=flat&logo=Databricks&logoColor=white)  
-![Leadership](https://img.shields.io/badge/Leadership-F2C811?style=flat&logo=Handshake&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-005571?style=flat&logo=Tableau&logoColor=white)
-
+![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-0F172A?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1E3A8A?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-4CAF50?style=for-the-badge&logo=teams&logoColor=white)
 
 ---
 
