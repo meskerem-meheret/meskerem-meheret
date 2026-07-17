@@ -1,66 +1,36 @@
-# Hi, I'm Meskerem 👋
+# Hi, I'm Meskerem 👋  
 
-## Data Analyst | SQL | Power BI | ETL | Data Warehouse
+## 💼 Data Analyst | SQL | Power BI | ETL | Machine Learning  
 
-I am a Data Analyst specializing in transforming business data into meaningful insights through data analysis, visualization, and reporting.
-
-Currently working with:
-
-- SQL Server
-- Power BI
-- ETL Processes
-- Data Warehouse
-- Python for Data Analytics
-- Machine Learning
+I specialize in transforming business data into actionable insights through analytics, visualization, and automation.  
+Currently pursuing my Master’s at **St. Mary University**, and working at **Tsedey Bank S.C.**  
 
 ---
 
-## 🛠️ Technical Skills
-
-### Data Analytics & BI
-- Power BI
-- Seal Report Designer
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-
-### Database & ETL
-- SQL Server
-- T-SQL
-- Data Warehouse
-- ETL Development
-- Data Modeling
-
-### Programming & Data Science
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Machine Learning
+### 🧠 Technical Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-0078D7?style=for-the-badge&logo=azuredatafactory&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 ---
 
-## 📊 Featured Projects
-
-### 🚗 Car Sales Dashboard
-Interactive Power BI dashboard analyzing vehicle sales performance, customer preferences, and business trends.
-
-### 👥 HR Analytics Dashboard
-Power BI dashboard analyzing employee data and HR-related insights.
-
-### 📈 Data Analytics Portfolio
-Collection of data analysis projects using SQL, Python, and Power BI.
+### 📊 Featured Projects  
+| Project | Description | Tech Stack | Demo |
+|----------|--------------|-------------|------|
+| **Customer Segmentation Dashboard** | Power BI dashboard for banking customer insights | Power BI, SQL | [View Demo](https://github.com/meskerem/customer-segmentation) |
+| **Credit Risk Prediction** | ML model predicting loan default probability | Python, Scikit-learn | [View Demo](https://github.com/meskerem/credit-risk-ml) |
+| **ETL Automation Pipeline** | Automated data extraction and transformation for reports | Python, Pandas, SQL | [View Demo](https://github.com/meskerem/etl-pipeline) |
 
 ---
 
-## 🎯 Currently Learning
-
-- Big Data Analytics
-- Machine Learning
-- Advanced Data Engineering Concepts
+### 🌐 Connect With Me  
+📧 [Gmail](mailto:meskerem.meheret@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/meskerem-meheret)  
 
 ---
 
-## 📫 Connect With Me
-
-LinkedIn: Add your LinkedIn profile here
+### 📈 GitHub Stats  
+![Meskerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=meskeremmeheret&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meskeremmeheret&layout=compact&theme=radical)
