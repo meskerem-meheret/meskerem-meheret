@@ -1,12 +1,13 @@
-# Hi, I'm Meskerem 👋  
+<div align="center">
 
-## 💼 Data Analyst | SQL | Power BI | ETL | Data Warehouse | Business Intelligence Developer
+# Hi, I'm Meskerem 👩‍🦰  
 
-I am a Data Analyst specializing in transforming business data into actionable insights through analytics, visualization, reporting, and automation.
-
-Currently pursuing my Master's degree in Computer Science at **St. Mary University** and working as a **Data Analyst at Tsedey Bank S.C.**, where I work with data warehouse solutions, ETL processes, SQL Server, and Business Intelligence reporting.
+### 💼 Data Analyst | SQL | Power BI | ETL | Data Warehouse | Business Intelligence Developer  
 
 ---
+
+🌟 Passionate about transforming data into actionable insights and building intelligent dashboards for banking and business analytics.  
+🎓 Currently pursuing my Master’s at **St. Mary University** and working at 
 
 ### 🧠 Technical Skills  
 
