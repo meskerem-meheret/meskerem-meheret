@@ -61,8 +61,8 @@
 
 | Project | Description | Tech Stack | Repository |
 |----------|-------------|------------|------------|
-| 🚗 **Car Sales Dashboard** | Interactive Power BI dashboard analyzing vehicle sales performance, customer preferences, and business trends | Power BI, Data Analysis | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github&logoColor=white)](https://github.com/meskerem-meheret/hr-analytics-dashboard-powerbi) |
-| 👥 **HR Analytics Dashboard** *(Coming Soon)* | HR data analysis dashboard providing insights into employee trends and workforce metrics | Power BI | 🚧 Coming Soon |
+| 🚗 **Car Sales Dashboard** | Interactive Power BI dashboard analyzing vehicle sales performance, customer preferences, and business trends | Power BI, Data Analysis | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github&logoColor=white)](https://github.com/meskerem-meheret/car-sales-dashboard-powerbi) |
+| 👥 **HR Analytics Dashboard** *(Coming Soon)* | HR data analysis dashboard providing insights into employee trends and workforce metrics | Power BI | [![GitHub](https://img.shields.io/badge/View-181717?style=flat&logo=github&logoColor=white)](https://github.com/meskerem-meheret/hr-analytics-dashboard-powerbi) |
 | 📈 **Data Analytics Portfolio** *(Coming Soon)* | Collection of data analysis projects using SQL, Python, and visualization techniques | SQL, Python, Power BI | 🚧 Coming Soon |
 
 ---
