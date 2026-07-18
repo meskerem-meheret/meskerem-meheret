@@ -67,6 +67,37 @@
 
 ---
 
+## 📂 Featured Project 1
+
+### 🚗 Bank Car Sales Dashboard
+
+An interactive **Power BI dashboard** built to analyze vehicle sales performance, customer behavior, regional trends, and revenue using business intelligence techniques.
+
+**🔧 Technologies**
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+
+**✨ Highlights**
+- 📈 Sales performance analysis
+- 🚗 Vehicle category insights
+- 👥 Customer demographics
+- 🌍 Regional sales comparison
+- 📊 Interactive KPIs and filters
+
+<p align="center">
+  <a href="https://github.com/meskerem-meheret/Bank-Car-Sales-Dashboard">
+    <img src="https://raw.githubusercontent.com/meskerem-meheret/Bank-Car-Sales-Dashboard/main/images/dashboard.png" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/meskerem-meheret/Bank-Car-Sales-Dashboard">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ### 🌱 Currently Learning
 
 ![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-0F172A?style=for-the-badge&logo=apachehadoop&logoColor=white)
