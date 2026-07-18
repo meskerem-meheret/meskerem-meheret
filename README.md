@@ -73,19 +73,6 @@
 
 An interactive **Power BI dashboard** built to analyze vehicle sales performance, customer behavior, regional trends, and revenue using business intelligence techniques.
 
-**🔧 Technologies**
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-
-**✨ Highlights**
-- 📈 Sales performance analysis
-- 🚗 Vehicle category insights
-- 👥 Customer demographics
-- 🌍 Regional sales comparison
-- 📊 Interactive KPIs and filters
-
 <p align="center">
   <a href="https://github.com/meskerem-meheret/Bank-Car-Sales-Dashboard">
     <img src="https://raw.githubusercontent.com/meskerem-meheret/Bank-Car-Sales-Dashboard/main/images/dashboard.png" width="800"/>
