@@ -66,7 +66,6 @@
 | 📈 **Data Analytics Portfolio** *(Coming Soon)* | Collection of data analysis projects using SQL, Python, and visualization techniques | SQL, Python, Power BI | 🚧 Coming Soon |
 
 ---
----
 
 ## 📂 Featured Project 1
 
