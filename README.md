@@ -67,6 +67,14 @@
 
 ---
 
+## 🎓 Certifications
+
+View my professional certifications and learning achievements:
+
+[![Certifications](https://img.shields.io/badge/View-Certifications-blue?style=for-the-badge&logo=github)](https://github.com/meskerem-meheret/data-analytics-certifications)
+
+--
+
 ### 🌱 Currently Learning
 
 ![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-0F172A?style=for-the-badge&logo=apachehadoop&logoColor=white)
