@@ -84,6 +84,17 @@
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskerem-meheret&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=meskerem-meheret&layout=compact&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=meskerem-meheret&theme=tokyonight&hide_border=true"/>
+</p>
+
 ### 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meskeremmeheret1621@gmail.com)
