@@ -79,14 +79,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meskerem-meheret&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=meskerem-meheret&theme=tokyonight&hide_border=true"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meskerem-meheret&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=meskerem-meheret&theme=tokyonight&hide_border=true)
 
 ### 🌐 Connect With Me
 
