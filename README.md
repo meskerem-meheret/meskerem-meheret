@@ -71,7 +71,7 @@
 
 View my professional certifications and learning achievements:
 
-[![Certifications](https://img.shields.io/badge/View-Certifications-blue?style=for-the-badge&logo=github)](https://github.com/meskerem-meheret/data-analytics-certifications)
+[![Certifications](https://img.shields.io/badge/View-Certifications-blue?style=for-the-badge&logo=github)](https://github.com/meskerem-meheret/certifications)
 
 --
 
