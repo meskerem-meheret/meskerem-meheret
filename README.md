@@ -79,19 +79,20 @@
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs" />
+<table>
+  <tr>
+    <td>
+      <img height="160"
+           src="https://github-readme-stats-sigma-five.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs" />
+    </td>
+    <td>
+      <img height="160"
+           src="https://streak-stats.demolab.com?user=meskerem-meheret&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-  <!--
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskerem-meheret&layout=compact&theme=tokyonight&hide_border=true" />
-  -->
-
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=meskerem-meheret&theme=tokyonight&hide_border=true" />
-</p>
-
+---
 ### 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meskeremmeheret1621@gmail.com)
