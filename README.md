@@ -73,7 +73,7 @@ My professional certifications and continuous learning achievements:
 
 [![Certifications](https://img.shields.io/badge/View-Certifications-blue?style=for-the-badge&logo=github)](https://github.com/meskerem-meheret/Certificates)
 
---
+---
 
 ### 🌱 Currently Learning
 
