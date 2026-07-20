@@ -67,7 +67,7 @@
 
 ---
 
-## 🎓 🎉✨🏆 Certifications 🏆✨🎉
+## 🎓 ✨ Certifications ✨ 🎓
 
 My professional certifications and continuous learning achievements:
 
