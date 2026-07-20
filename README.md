@@ -77,15 +77,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskerem-meheret&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs" />
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=meskerem-meheret&theme=tokyonight&hide_border=true" />
+  <!--
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meskerem-meheret&layout=compact&theme=tokyonight&hide_border=true" />
+  -->
+
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=meskerem-meheret&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🌐 Connect With Me
