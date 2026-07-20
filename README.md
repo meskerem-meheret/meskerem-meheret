@@ -66,19 +66,17 @@
 | 📈 **Data Analytics Portfolio** *(Coming Soon)* | Collection of data analysis projects using SQL, Python, and visualization techniques | SQL, Python, Power BI | 🚧 Coming Soon |
 
 ---
+
 ## 🎓 Certifications
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100"/>
 </p>
 
 My professional certifications and continuous learning achievements:
 
-<p align="center">
-  <a href="https://github.com/meskerem-meheret/Certificates">
-    <img src="https://img.shields.io/badge/View-Certifications-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![Certifications](https://img.shields.io/badge/View-Certifications-blue?style=for-the-badge&logo=github)](https://github.com/meskerem-meheret/Certificates)
+
 ---
 
 ### 🌱 Currently Learning
