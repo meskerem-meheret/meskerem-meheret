@@ -91,10 +91,10 @@ My professional certifications and continuous learning achievements:
 
 <table>
   <tr>
-    <td>
-      <img height="160"
-           src="https://github-readme-stats-sigma-five.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs" />
-    </td>
+<td>
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=meskerem-meheret&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs" />
+</td>
     <td>
       <img height="160"
            src="https://streak-stats.demolab.com?user=meskerem-meheret&theme=tokyonight&hide_border=true" />
